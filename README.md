@@ -1,6 +1,8 @@
 # Solmar Bay
 
-[![make.fun](https://img.shields.io/badge/make.fun-gta6--01-ff6b35)](https://make.fun/c/gta6-01)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Ci3hu1/gta6-01/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Ci3hu1/gta6-01/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 **Solmar Bay** — a complete open-world crime game in the spirit of GTA 6, built for the
 [make.fun gta6-01 bounty](https://make.fun/c/gta6-01). Top-down 2D canvas, vanilla JS,
